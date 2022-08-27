@@ -1,0 +1,24 @@
+.jumbotron {
+  padding-top: 8rem;
+  background-color: #007da8;
+  color: #fff;
+  letter-spacing: 1px;
+}
+#portofolio {
+  background-color: #007da8;
+}
+.myportofolio {
+  color: #fff;
+}
+.footer {
+  background-color: #18627f;
+  color: #fff;
+  text-align: center;
+}
+.footer a {
+  color: #fff;
+}
+
+section {
+  padding-top: 6rem;
+}
